@@ -1,0 +1,42 @@
+
+version: "1.0"
+# Stages can help you organize your steps in stages
+stages:
+  - "clone"
+  - "generate_version"
+  - "test"
+
+steps:
+  clone:
+    title: "Cloning repository"
+    type: "git-clone"
+    repo: "shubhamprataps/semver"
+    git: "DeloitteHux_github"
+    stage: "clone"
+  
+  GetGitToken:
+    title: Reading Github token
+    stage: generate_version
+    image: 'node'
+    commands:
+    - cf_export GITHUB_TOKEN="${{HELLOSECRETGIT}}"
+  
+  generate_version:
+    title: "Generating semantic release number"
+    type: "freestyle"
+    stage: "generate_version"
+    image: 'node'
+    working_directory: "${{clone}}"
+    commands:
+      - npm install @semantic-release/git @semantic-release/changelog -D
+      - npx semantic-release 
+
+  test:
+    title: "Running test"
+    type: "freestyle" # Run any command
+    image: "ubuntu:latest" # The image in which command will be executed
+    working_directory: "${{clone}}" # Running command where code cloned
+    commands:
+      - "ls"
+    stage: "test"
+
