@@ -1,3 +1,11 @@
+## [1.3.1-versionb11.1](https://github.com/shubhamprataps/ver/compare/v1.3.0...v1.3.1-versionb11.1) (2021-12-06)
+
+
+### Bug Fixes
+
+* **hllll:** hlll ([7011f8f](https://github.com/shubhamprataps/ver/commit/7011f8f5376a5e715a5be0dbc820540bf61551ea))
+* **ksksksksks:** ksksksks ([423611e](https://github.com/shubhamprataps/ver/commit/423611e641e29941b5e22ce415bfd8d59011417f))
+
 ## [1.3.2](https://github.com/shubhamprataps/ver/compare/v1.3.1...v1.3.2) (2021-12-06)
 
 
