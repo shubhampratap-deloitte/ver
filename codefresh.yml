@@ -10,7 +10,7 @@ steps:
   clone:
     title: "Cloning repository"
     type: "git-clone"
-    repo: "shubhamprataps/semver"
+    repo: "shubhamprataps/ver"
     git: "DeloitteHux_github"
     stage: "clone"
   
