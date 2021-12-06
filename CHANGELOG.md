@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/shubhamprataps/ver/compare/v1.0.0...v1.1.0) (2021-12-06)
+
+
+### Features
+
+* **new branch vertest:** new branch vertest adeed ([26ee05d](https://github.com/shubhamprataps/ver/commit/26ee05d08cce3396aeb75edeb20028c72c94db90))
+
 # 1.0.0 (2021-12-06)
 
 
