@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/shubhamprataps/ver/compare/v1.2.0...v1.3.0) (2021-12-06)
+
+
+### Features
+
+* **branch:** new branch added ([e3c3bd7](https://github.com/shubhamprataps/ver/commit/e3c3bd73efa6dc078f94c3d2d11964387c449d66))
+
 # [1.2.0](https://github.com/shubhamprataps/ver/compare/v1.1.0...v1.2.0) (2021-12-06)
 
 
