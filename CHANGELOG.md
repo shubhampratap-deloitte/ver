@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/shubhamprataps/ver/compare/v1.3.0...v1.3.1) (2021-12-06)
+
+
+### Bug Fixes
+
+* **ksksksksks:** ksksksks ([423611e](https://github.com/shubhamprataps/ver/commit/423611e641e29941b5e22ce415bfd8d59011417f))
+
 # [1.2.0-versionb11.1](https://github.com/shubhamprataps/ver/compare/v1.1.0...v1.2.0-versionb11.1) (2021-12-06)
 
 
