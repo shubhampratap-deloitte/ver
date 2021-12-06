@@ -1,3 +1,17 @@
+# [1.2.0-versionb11.1](https://github.com/shubhamprataps/ver/compare/v1.1.0...v1.2.0-versionb11.1) (2021-12-06)
+
+
+### Bug Fixes
+
+* **b:** added b ([038460f](https://github.com/shubhamprataps/ver/commit/038460f0bfe84d6c5c06dfc28f3550320128caa6))
+* **bb:** added ([d18bfa9](https://github.com/shubhamprataps/ver/commit/d18bfa92aaca2120de36ad7c0214f78f208cd974))
+
+
+### Features
+
+* **branch:** new branch added ([e3c3bd7](https://github.com/shubhamprataps/ver/commit/e3c3bd73efa6dc078f94c3d2d11964387c449d66))
+* **feature:** added new feature ([de21e6c](https://github.com/shubhamprataps/ver/commit/de21e6c081a0c8ef87e90a216be9b35e9686d35a))
+
 # [1.3.0](https://github.com/shubhamprataps/ver/compare/v1.2.0...v1.3.0) (2021-12-06)
 
 
