@@ -1,7 +1,7 @@
 {
   "branches": [
     "master", 
-    { "name": "master",  "prerelease" : "version11" }
+    { "name": "vertest",  "prerelease" : "version11" }
   ],
 
   "plugins": [
